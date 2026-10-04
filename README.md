@@ -18,16 +18,12 @@ What I care about: products that people actually use, interfaces that feel expen
 ### 🔨 Building now
 
 **🌎 [Omi](https://github.com/BasedHardware/omi) for the Spanish-speaking world** &nbsp;·&nbsp; *open source*
-Omi's desktop apps only spoke English. I'm localizing it end to end for ~500M Spanish speakers: [7 pull requests to Omi, 3 already merged](https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Achicoenmascarado) covering a Spanish string table for the macOS app, a translated Windows UI (Spanish + Brazilian Portuguese), Latin-American Spanish transcription, custom transcription vocabulary, and backend notifications and AI advice generated in the user's language.
+Omi mostly speaks English. I'm localizing it end to end for ~500M Spanish speakers: [7 pull requests to Omi, 3 already merged](https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Achicoenmascarado). Merged: Spanish fixes in the mobile app (placeholders dropped by 62 translations, now guarded against, plus the memory graph and data protection labels). Under review: the web app interface in Spanish, Latin-American Spanish transcription and a custom vocabulary editor on Windows, and AI output in the user's language. More is queued in my fork: a Spanish string table for the macOS app, a translated Windows UI (Spanish + Brazilian Portuguese) and backend notifications in the user's language.
 `Swift` `TypeScript` `Python`
 
 **🖥️ [Kairos](https://github.com/chicoenmascarado/kairos)** &nbsp;·&nbsp; *open source, pre-alpha*
 The best of macOS, Linux and Windows, rebuilt on top of Windows: native, free, with a bring-your-own-model AI agent and KaiRemote, to control your PC from WhatsApp or Telegram. Already ships a custom dock and a USB setup script. &nbsp;[Website →](https://kairoswebsite.vercel.app) · [Star it ⭐](https://github.com/chicoenmascarado/kairos)
 `C#` `PowerShell`
-
-**🛒 Likesito** &nbsp;·&nbsp; *private*
-A social-media services store with guest checkout. Every paid order is sent on its own to a wholesale provider and its status syncs back: customer accounts with prepaid balance, discount packs and codes, an admin panel and in-platform support tickets.
-`Next.js` `Postgres` `Drizzle`
 
 **📰 Titulares IA** &nbsp;·&nbsp; *private*
 An automated newsroom that turns AI news into Spanish short-form video: `ingest → AI judge → script → voice → render`, end to end.
