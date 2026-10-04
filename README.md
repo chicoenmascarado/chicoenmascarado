@@ -18,7 +18,7 @@ What I care about: products that people actually use, interfaces that feel expen
 ### 🔨 Building now
 
 **🌎 [Omi](https://github.com/BasedHardware/omi) for the Spanish-speaking world** &nbsp;·&nbsp; *open source*
-Omi's desktop apps only spoke English. I'm localizing it end to end for ~500M Spanish speakers: [9 pull requests](https://github.com/chicoenmascarado/omi/pulls) covering a Spanish string table for the macOS app, a translated Windows UI (Spanish + Brazilian Portuguese), Latin-American Spanish transcription, custom transcription vocabulary, and backend notifications and AI advice generated in the user's language.
+Omi's desktop apps only spoke English. I'm localizing it end to end for ~500M Spanish speakers: [7 pull requests to Omi, 3 already merged](https://github.com/BasedHardware/omi/pulls?q=is%3Apr+author%3Achicoenmascarado) covering a Spanish string table for the macOS app, a translated Windows UI (Spanish + Brazilian Portuguese), Latin-American Spanish transcription, custom transcription vocabulary, and backend notifications and AI advice generated in the user's language.
 `Swift` `TypeScript` `Python`
 
 **🖥️ [Kairos](https://github.com/chicoenmascarado/kairos)** &nbsp;·&nbsp; *open source, pre-alpha*
